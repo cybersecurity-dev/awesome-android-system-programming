@@ -1,10 +1,13 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
-      <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Android.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Android_(operating_system)">
+          <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Android.svg" />
+        </a>
+    </p>
 
 # Awesome [Android](https://www.android.com/) System [Programming](https://en.wikipedia.org/wiki/Systems_programming) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://en.wikipedia.org/wiki/Android_(operating_system))
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
